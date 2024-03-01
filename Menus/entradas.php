@@ -186,7 +186,7 @@
                                     <!-- Imagen -->
                                     <div class="col-sm-6">
                                         <input type="file" name="foto" class="custom-file" id="file-upload" style="display: none;">
-                                        <label for="file-upload" class="custom-file-upload">Seleccionar Archivo</label>
+                                        <label for="file-upload" class="custom-file-upload">Seleccionar Imagen</label>
                                         <span id="file-name"><?php if(isset($_GET['modificar'])) echo $cambiar['imagen']; ?></span>
                                     </div>
                                 </div>
