@@ -1,0 +1,23 @@
+{
+  "name": "restaurante-app",
+  "version": "1.0.0",
+  "description": "Aplicacion de Gestion de Menus para Restaurante",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NahuelAS/Restaurante-App.git"
+  },
+  "author": "Nahuel Stella",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NahuelAS/Restaurante-App/issues"
+  },
+  "homepage": "https://github.com/NahuelAS/Restaurante-App#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "sweetalert2": "^11.10.5"
+  }
+}
